@@ -1,0 +1,12 @@
+<#
+Это многострочный комментарий
+Yea
+#>
+
+Arr = ( 1, 2, 3, 4 )
+
+Dict = {Name : "Aleksandr", Secondname : "Shumilov", Thirdname : "Evgenievich"}
+
+Number -> 30
+
+Result = $Number$

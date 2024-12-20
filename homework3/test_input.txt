@@ -1,0 +1,7 @@
+<#
+This is a comment
+#>
+myArray = (1, 2, 3, 4)
+myDict = {key1: "value1", key2: "value2"}
+MY_CONSTANT -> 42
+result = $MY_CONSTANT$
